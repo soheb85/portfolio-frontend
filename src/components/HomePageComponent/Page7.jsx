@@ -37,7 +37,7 @@ const Page7 = () => {
         <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider">CONTACT</h1>
         </div>
         
-      <section className="bg-white dark:bg-gray-900" data-aos="fade-down" >
+      <section className="bg-white" data-aos="fade-down" >
   <div className="py-8 lg:py-16 px-4 max-w-screen-md">
     <h2 className="mb-4 text-4xl tracking-wide font-extrabold text-center text-gray-900 dark:text-white">
       Hire Me
