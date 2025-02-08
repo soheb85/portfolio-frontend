@@ -25,7 +25,7 @@ const Page1 = () => {
           }} 
             startDelay={100}
             cursorColor="black"
-            multiText={['I,m Soheb Khan']}
+            multiText={['I am Soheb Khan']}
             typeSpeed={100}
             
           />
