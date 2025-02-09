@@ -9,10 +9,10 @@ const Page6 = () => {
   return (
     <div className="mt-25 sm:pl-8" id="resume">
         <div>
-        <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm">MY DETAILS</h2>
-        <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider">RESUME</h1>
+        <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm pl-8">MY DETAILS</h2>
+        <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider pl-8">RESUME</h1>
         </div>
-      <div className=" mt-12" data-aos="fade-right" >
+      <div className=" mt-12 ml-30" data-aos="fade-right" >
       <a
         href="../SohebKhanCV (4).pdf" 
         download="../SohebKhanCV (4).pdf"

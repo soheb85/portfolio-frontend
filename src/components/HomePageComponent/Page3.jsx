@@ -20,7 +20,7 @@ const Page3 = () => {
       <div className="mt-[100px] pl-8">
       <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm">MY SPECIALTY</h2>
       <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider">MY SKILLS</h1>
-      <p className="text-gray-400 text-lg pt-15 tracking-wider pr-15">
+      <p className="text-gray-400 text-sm sm:text-lg pt-15 tracking-wider pr-15">
       As a passionate and dedicated developer, I have built a strong foundation in web development and backend technologies. 
   I specialize in Java, JavaScript, and modern frameworks like React.js and Spring Boot, allowing me to create dynamic 
   and scalable applications. My expertise in database management with MySQL and Oracle enables me to efficiently 

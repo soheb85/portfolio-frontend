@@ -10,8 +10,8 @@ const Page5 = () => {
   return (
     <div className="mt-25 sm:pl-8" id="project">
       <div>
-        <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm">MY WORK</h2>
-        <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider">PROJECTS</h1>
+        <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm pl-8">MY WORK</h2>
+        <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider pl-8">PROJECTS</h1>
         </div>
         <div className="mt-25">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 w-[80%] ml-8">

@@ -33,8 +33,8 @@ const Page7 = () => {
   return (
     <div className="mt-25 sm:pl-8" id="contact" >
         <div>
-        <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm">GET IN TOUCH</h2>
-        <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider">CONTACT</h1>
+        <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm pl-8">GET IN TOUCH</h2>
+        <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider pl-8">CONTACT</h1>
         </div>
         
       <section className="bg-white" data-aos="fade-down" >

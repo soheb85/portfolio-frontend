@@ -18,13 +18,13 @@ const Page2 = () => {
     <div data-aos="fade-left" className="mt-[50px] pl-8" id="about">
         <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm">ABOUT ME</h2>
         <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider">WHO AM I?</h1>
-        <p className="text-gray-400 text-lg pt-15 tracking-wider pr-15"><span className="text-black font-semibold">Hi I'm Soheb Khan</span> good at solving problems and have strong technical skills, especially with
+        <p className="text-gray-400 text-sm sm:text-lg pt-15 tracking-wider pr-15"><span className="text-black font-semibold">Hi I'm Soheb Khan</span> good at solving problems and have strong technical skills, especially with
 data. I face challenges with a positive attitude and stay focused on finding
 solutions. I work well both on my own and with others, always doing my best
 to meet and go beyond what’s expected.My goal is to keep improving and add
 value to any team or project I work on.
 </p>
-<p className="text-gray-400 text-lg pt-4 tracking-wider pr-15">
+<p className="text-gray-400 text-sm sm:text-lg pt-4 tracking-wider pr-15">
 I have completed a full-time 6-month training in Java Full Stack Development
 from J Spider, Thane. During this training, I gained strong skills in Core Java,
 HTML, CSS, and JavaScript, Advance Java, Hibernate, along with basic
