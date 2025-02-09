@@ -9,7 +9,7 @@ const Page4Skill = ({degree,college,address,year,score,link}) => {
            }, []);
   return (
     <div className="mt-6" data-aos="fade-left">
-        <div className="h-[220px] w-[80%]  rounded-xl shadow-[0px_4px_16px_rgba(17,17,26,0.1),_0px_8px_24px_rgba(17,17,26,0.1),_0px_16px_56px_rgba(17,17,26,0.1)]">
+        <div className="sm:h-[220px] sm:w-[80%]  rounded-xl shadow-[0px_4px_16px_rgba(17,17,26,0.1),_0px_8px_24px_rgba(17,17,26,0.1),_0px_16px_56px_rgba(17,17,26,0.1)]">
             <div className="w-full" >
                 <h1 className="text-[27px] font-semibold p-5 tracking-tight text-gray-900">{degree}<span className="inline-block ml-15 text-2xl h-8 w-20 bg-blue-100 rounded-lg text-gray-600 text-center tracking-wide shadow-[0_3px_10px_rgb(0,0,0,0.2)]">{year}</span></h1>
             </div>

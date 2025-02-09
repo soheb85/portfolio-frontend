@@ -11,11 +11,11 @@ const Page1 = () => {
         }, []);
 
   return (
-    <div className="w-[100%] relative" id="home">
-      <div className="lg:w-[100%]">
-      <img src={simg} alt="" className="w-full h-[100vh] lg:h-[100vh] object-cover"/>
+    <div className="sm:w-[100%] relative" id="home">
+      <div className="sm:w-[100%]">
+      <img src={simg} alt="" className="w-full h-[100vh] sm:h-[100vh] object-cover"/>
       <div data-aos="zoom-out" className="absolute inset-0 flex flex-col justify-center left-[100px] lg:left-[180px] top-[-230px]  px-4">
-        <h2 className="text-3xl lg:text-5xl font-bold text-black">Hi!</h2>
+        <h2 className="text-3xl sm:text-5xl font-bold text-black">Hi!</h2>
         <TypeWriterEffect
            textStyle={{
             
