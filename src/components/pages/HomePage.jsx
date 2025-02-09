@@ -8,7 +8,7 @@ import Page7 from "../HomePageComponent/Page7"
 
 const HomePage = () => {
   return (
-    <div className="w-[60%] ml-[32.5%]">
+    <div className="lg:w-[60%] lg:ml-[32.5%]">
       <Page1/>
       <Page2/>
       <Page3/>

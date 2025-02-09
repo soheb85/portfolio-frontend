@@ -12,10 +12,10 @@ const Page1 = () => {
 
   return (
     <div className="w-[100%] relative" id="home">
-      <div className="w-[100%]">
-        <img src={simg} alt="" className="h-[945px] w-[100%]"/>
-        <div data-aos="zoom-out" className="absolute inset-0  items-center left-70 top-[250px]">
-        <h2 className="text-5xl font-bold text-black">Hi!</h2>
+      <div className="lg:w-[100%]">
+      <img src={simg} alt="" className="w-full h-[100vh] lg:h-[100vh] object-cover"/>
+      <div data-aos="zoom-out" className="absolute inset-0 flex flex-col justify-center left-[100px] lg:left-[180px] top-[-230px]  px-4">
+        <h2 className="text-3xl lg:text-5xl font-bold text-black">Hi!</h2>
         <TypeWriterEffect
            textStyle={{
             

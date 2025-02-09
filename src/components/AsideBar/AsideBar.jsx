@@ -2,7 +2,8 @@ import myimg from '/upscalemedia-transformed.png'
 import { Link } from 'react-scroll'
 const AsideBar = () => {
   return (
-    <div className="h-[100vh] w-[22%] bg-gray-300 flex fixed left-[200px] overflow-y-auto">
+    <div className="lg:w-[22%] lg:h-[100vh] lg:fixed lg:left-[200px] bg-gray-300 flex flex-col lg:block">
+     
         <aside className='w-[100%]'>
             <div className='pt-10 flex justify-center'>
             <img src={myimg} alt="profile_img" className='border-7 border-red-200 rounded-full h-[380px] bg-white ' />
