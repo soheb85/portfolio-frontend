@@ -10,7 +10,7 @@ const Page4 = () => {
     ]
   return (
     <div id="education">
-      <div className="mt-25 pl-8">
+      <div className="mt-25 sm:pl-8">
         <div>
         <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm">EDUCATION</h2>
         <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider">EDUCATION</h1>

@@ -8,7 +8,7 @@ const Page5 = () => {
         {name:"Portfolio Website",para:"Portfolio website using React-js and Tailwindcss",link:"https://github.com/soheb85/Portfolio", image:"/Screenshot 2025-02-08 175756 - Copy.png",aos:"zoom-out-left"},
     ]
   return (
-    <div className="mt-25 pl-8" id="project">
+    <div className="mt-25 sm:pl-8" id="project">
       <div>
         <h2 className="text-gray-400 font-semibold tracking-wider pt-5 text-sm">MY WORK</h2>
         <h1 className="text-black font-semibold pt-10 text-2xl tracking-wider">PROJECTS</h1>
