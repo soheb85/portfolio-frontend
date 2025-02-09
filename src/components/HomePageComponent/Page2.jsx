@@ -32,7 +32,7 @@ knowledge of React.js, Express.js, and Tailwind CSS. I am also currently
 learning Spring, and Spring Boot to enhance my technical abilities further.
 </p>
 
-<div data-aos="zoom-in" className="grid grid-cols-1 pt-15 w-full h-auto lg:gap-18 gap-5 ">
+<div data-aos="zoom-in" className="grid grid-cols-1 pt-15 w-full h-auto sm:flex lg:gap-18 gap-5 ">
     <Page2Skill text="Application" border="border-blue-600" textColor="text-blue-600" Icons={CiMobile3}/>
     <Page2Skill text="Software" border="border-red-600" textColor="text-red-600" Icons={BsDatabase}/>
     <Page2Skill text="Web Design" border="border-yellow-600" textColor="text-yellow-600" Icons={GiSpiderWeb}/>
