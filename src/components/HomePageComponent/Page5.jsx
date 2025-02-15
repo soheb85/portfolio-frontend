@@ -6,6 +6,7 @@ const Page5 = () => {
         {name:"Employee Management",para:"Font-end using React-js Tailwindcss to perform CURD",link:"https://github.com/soheb85/ems-frontend", image:"../emsproject.png",aos:"zoom-out-left"},
         {name:"Employee Management",para:"Backend using Spring Boot and Database Postgres SQL EMS",link:"https://github.com/soheb85/ems-backend", image:"../Screenshot 2025-02-08 163214.png",aos:"zoom-out-right"},
         {name:"Portfolio Website",para:"Portfolio website using React-js and Tailwindcss",link:"https://github.com/soheb85/Portfolio", image:"/Screenshot 2025-02-08 175756 - Copy.png",aos:"zoom-out-left"},
+        {name:"Cricket Auction System",para:"Auction Players using React-js and Tailwindcss",link:"https://github.com/soheb85/CricketAuctionSystem", image:"/public/Screenshot 2025-02-16 042536.png",aos:"zoom-out-right"},
     ]
   return (
     <div className="mt-25 sm:pl-8" id="project">
