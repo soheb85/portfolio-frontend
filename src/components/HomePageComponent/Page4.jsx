@@ -3,7 +3,7 @@ import Page4Skill from "../PagesComponents/Page4Skill"
 
 const Page4 = () => {
     const education = [
-        {degree:"Bachelor In Electronic And Computer Science ",college:"Shah & Anchor Kutchhi Engineering College",address:"Address:- Chembur, Mumbai, Maharashtra", year:"2024", score:"CGPI - 7.67",link:"https://www.sakec.ac.in/"},
+        {degree:"Bachelor In Electronic And Computer Science ",college:"Shah & Anchor Kutchhi Engineering College",address:"Address:- Chembur, Mumbai, Maharashtra", year:"2024", score:"CGPI - 7.75",link:"https://www.sakec.ac.in/"},
         {degree:"Diploma In Computer Engineering ",college:"Vidyalankar Polytechnic",address:"Address:- Vadala, Mumbai, Maharashtra", year:"2021", score:"Percentage - 78.80%",link:"https://vpt.edu.in/"},
         {degree:"Higher Secondary Certificate ",college:"ASJC Bunt's Sangha College",address:"Address:- Kurla, Mumbai, Maharashtra", year:"2017", score:"Percentage - 53.00%",link:"https://asjc.bunts.edu.in/"},
         {degree:"Secondary School Certificate ",college:"S.K.Pantwalavalkar English High School",address:"Address:- Kurla, Mumbai, Maharashtra", year:"2015", score:"Percentage - 61.60%",link:"https://schools.org.in/mumbai-ii/27230400101/s-k-pantwalawarkar-madhyamik-vidyalaya-kurla-e.html"},

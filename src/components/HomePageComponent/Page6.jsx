@@ -14,8 +14,8 @@ const Page6 = () => {
         </div>
       <div className=" mt-12 ml-30" data-aos="fade-right" >
       <a
-        href="../SohebKhanCV (5).pdf" 
-        download="../SohebKhanCV (5).pdf"
+        href="../SohebKhanCV (11).pdf" 
+        download="../SohebKhanCV (11).pdf"
         className="bg-blue-600 text-white font-semibold py-2 px-6 rounded-lg hover:bg-blue-700 transition-all duration-300 shadow-md"
       >
         Download Resume
